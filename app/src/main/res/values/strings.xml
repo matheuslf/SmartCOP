@@ -1,0 +1,6 @@
+<resources>
+    <string name="ok">OK</string>
+    <string name="permission_camera_rationale">Necessário dar permissão para acessar a camera</string>
+    <string name="no_camera_permission">A aplicação não pode ser executada porque não foi executado a permissão da camera. A aplicação será interrompida.</string>
+    <string name="app_name">SmartCOP</string>
+</resources>
